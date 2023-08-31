@@ -37,7 +37,7 @@ paint, nonWhitespaceSequence
 paragraph, namedParagraph
 part, part
 regex, regularExpression
-  , section
+section  , section
 selector, selector
 short paint, boundedNonWhitespaceSequence
 start tag, xmlStartTag
@@ -52,3 +52,6 @@ type, type
 unit, unit
 value, value
 word, word
+
+branch, branch
+instance, instance
