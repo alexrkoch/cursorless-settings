@@ -57,3 +57,13 @@ decrement, decrement
 follow split, followLinkAside
 increment, increment
 join, joinLines
+
+# 2026-02-20 13:57:52 - New entries automatically added by cursorless
+append, addSelection
+append post, addSelectionAfter
+append pre, addSelectionBefore
+flash, flashTargets
+git accept, gitAccept
+git revert, gitRevert
+git stage, gitStage
+git unstage, gitUnstage

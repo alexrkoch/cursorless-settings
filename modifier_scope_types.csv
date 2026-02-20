@@ -62,3 +62,8 @@ sentence, sentence
 
 # 2024-07-22 09:36:55 - New entries automatically added by cursorless
 glyph, glyph
+
+# 2026-02-20 13:57:53 - New entries automatically added by cursorless
+arg list, argumentList
+full line, fullLine
+short block, boundedParagraph
